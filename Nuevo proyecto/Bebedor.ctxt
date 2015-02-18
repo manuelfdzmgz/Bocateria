@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=nombreBebedor\ nivelMaximoAlcohol\ dinero
+comment0.target=Bebedor(java.lang.String,\ float,\ float)
+comment1.params=
+comment1.target=float\ getMaxAlcohol()
+comment1.text=\r\n\ Se\ retorna\ el\ valor\ maximo\ que\ puede\ alvergar\ en\ el\ cuerpo\ el\ bebedor\r\n
+comment2.params=copa
+comment2.target=void\ beberCopa(Cubata)
+comment2.text=\r\n\ Le\ damos\ al\ bebedor\ una\ copa\ para\ que\ se\ la\ beba\r\n
+comment3.params=copa
+comment3.target=void\ pedirFactura(Cubata)
+comment3.text=\r\n\ Este\ metodo\ simula\ la\ accion\ de\ un\ bebedor\ que\ pide\ la\ factura\ al\ camarero\r\n
+numComments=4

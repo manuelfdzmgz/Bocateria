@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=name\ age
+comment0.target=Person(java.lang.String,\ int)
+comment1.params=
+comment1.target=void\ showData()
+comment2.params=person1
+comment2.target=void\ setMother(Person)
+comment3.params=person1
+comment3.target=void\ setFather(Person)
+comment4.params=
+comment4.target=void\ addChild()
+comment5.params=
+comment5.target=void\ showParentsData()
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=nombre\ cantidadAlcohol\ precioCopa
+comment0.target=Cubata(java.lang.String,\ float,\ float)
+comment1.params=
+comment1.target=java.lang.String\ getNombre()
+comment2.params=
+comment2.target=float\ getCantidadDeAlcohol()
+comment3.params=
+comment3.target=float\ getPrecioCopa()
+comment4.params=
+comment4.target=void\ imprimirFactura()
+numComments=5

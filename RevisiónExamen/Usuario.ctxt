@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=nombre
+comment0.target=Usuario(java.lang.String)
+comment0.text=\r\n\ Constructor\ de\ la\ clase\ Usuario\r\n
+comment1.params=alimento\ cantidad
+comment1.target=void\ comer(Alimento,\ float)
+comment1.text=\r\n\ Registra\ la\ ingesta\ de\ una\ cierta\ cantidad\ de\ alimento\r\n
+comment2.params=
+comment2.target=void\ muestraDatos()
+comment2.text=\r\n\ Muestra\ el\ estado\ actual\ del\ usuario\:\ nombre\ y\ proteinas,\ carbohidratos\r\n\ grasas\ y\ calorias\ ingeridas.\r\n
+comment3.params=otroUsuario
+comment3.target=void\ comparaCon(Usuario)
+comment3.text=\r\n\ Compara\ las\ calorias\ ingeridas\ de\ este\ usuario\ con\r\n\ las\ de\ otro\ usuario\ y\ muestra\ por\ pantalla\ el\ resultado\ de\ dicha\r\n\ comparacion\r\n
+comment4.params=
+comment4.target=float\ getCalorias()
+comment4.text=\r\nMetodo\ que\ devuelve\ la\ cantidad\ de\ calorias\ ingeridas\ por\ el\ usuario\r\n
+comment5.params=
+comment5.target=java.lang.String\ getNombre()
+comment5.text=\r\n\ Devuelve\ el\ nombre\ del\ usuario\r\n
+comment6.params=
+comment6.target=void\ printAlimentoMasCalorico()
+comment6.text=\r\n\ Imprime\ el\ alimento\ mas\ calorico\ tomado\ hasta\ el\ momento\r\n
+comment7.params=posicion
+comment7.target=void\ alimentoListados(int)
+comment7.text=\r\n\ Imprime\ todos\ los\ datos\ del\ alimento\ comido\ por\ el\ usuario\ en\ la\ posicion\ indicada\ por\ el\ parametro\:si\ el\ usuario\ indica\ el\ 1\ se\ refiere\ al\ primer\ alimento\ comido\ el\ 2\ el\ segundo\ etc\r\n
+numComments=8
