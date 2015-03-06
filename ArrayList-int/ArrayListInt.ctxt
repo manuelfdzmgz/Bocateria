@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ArrayListInt()
+comment0.text=\r\n\ Constructor\ para\ crear\ un\ array\ tradicional\ vacio\r\n
+comment1.params=elemento
+comment1.target=void\ add(int)
+comment1.text=\r\n\ A\u00F1ade\ un\ elemento\ al\ array.\r\n\ @param\ elemento\ el\ numero\ a\ a\u00F1adir\ al\ array.\r\n
+comment2.params=index\ elemento
+comment2.target=void\ add(int,\ int)
+comment2.text=\r\n\ Metodo\ que\ a\u00F1ade\ un\ elemento\ a\ la\ array\ en\ la\ posici\u00F3n\ indicada.\r\n\ @param\ index\ La\ posici\u00F3n\ donde\ a\u00F1adir\ el\ elemento\r\n\ @param\ elemento\ El\ elemento\ a\ a\u00F1adir\r\n
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MiHashSet()
+comment1.params=numero
+comment1.target=boolean\ add(int)
+comment2.params=
+comment2.target=void\ clear()
+numComments=3
