@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=nombre
+comment0.target=Usuario(java.lang.String)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Usuario\r\n
+comment1.params=alimento\ cantidad
+comment1.target=void\ comer(Alimento,\ int)
+comment1.text=\r\n\ Metodo\ que\ simula\ como\ un\ usuario\ come\ un\ alimento\ y\ muestra\ por\ el\ terminal\ los\ datos\ del\ \r\n\ alimento\ y\ la\ cantidad\ consumidos\ proteinas\ carbohidratos\ calorias\ asi\ como\ el\ nombre\ del\ usuario\r\n\ y\ del\ alimento\ ingerido.\r\n\ \r\n\ @param\ \ alimento\ un\ objeto\ de\ la\ clase\ alimento\r\n\ @param\ cantidad\ cantidad\ en\ gramos\ de\ alimento\r\n
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment2.text=\r\n\ Metodo\ getter\ que\ retorna\ el\ valor\ del\ \ nombre\ del\ usuario\r\n\ @return\ devuelve\ el\ nombre\ del\ usuario\ \r\n
+comment3.params=
+comment3.target=float\ getCaloriasUsuario()
+comment3.text=\r\n\ Metodo\ getter\ que\ retorna\ el\ valor\ de\ las\ calorias\ ingeridas\ por\ el\ usuario\r\n\ \r\n\ @return\ devuelve\ el\ valor\ de\ las\ calorias\ ingeridas\ por\ el\ usuario\r\n
+comment4.params=usuario1\ usuario2
+comment4.target=void\ comparar(Usuario,\ Usuario)
+comment4.text=\r\n\ Compara\ quien\ de\ dos\ usuarios\ ha\ consumido\ mas\ calorias\r\n
+comment5.params=
+comment5.target=void\ alimentoMasCalorico()
+comment5.text=\r\n\ Muestra\ por\ pantalla\ el\ alimento\ mas\ calorico\ consumido\ por\ el\ usuario\ hasta\ el\ momento\r\n
+comment6.params=posicion
+comment6.target=void\ datoNutricional(int)
+comment6.text=\r\n\ Pide\ por\ parametro\ la\ posicion\ en\ la\ que\ quieres\ saber\ los\ datos\ nutricionales\ de\ un\ alimento\ ingerido\r\n\ \r\n
+numComments=7

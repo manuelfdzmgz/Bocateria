@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=nombre\ proteinas\ carbohidratos\ grasas
+comment0.target=Alimento(java.lang.String,\ float,\ float,\ float)
+comment0.text=\r\n\ Constructor\ con\ parametros\ de\ la\ clase\ alimento\r\n\ @param\ nombre\ el\ nombre\ del\ alimento\r\n\ @param\ proteinas\ el\ numero\ de\ proteinas\ por\ cada\ 100\ gramos\ que\ contiene\ el\ alimento\r\n\ @param\ carbohidratos\ el\ numero\ de\ carbohidratos\ que\ contiene\ el\ alimento\ por\ cada\ 100\ gramos\r\n\ @param\ grasas\ el\ numero\ de\ grasas\ por\ cada\ 100\ gramos\ de\ alimento\r\n
+comment1.params=
+comment1.target=void\ muestraDatos()
+comment1.text=\r\n\ Muestra\ por\ pantalla\ el\ nombre\ del\ alimento\ la\ cantidad\ de\ proteinas\r\n\ carbohidratos\ y\ grasas\ por\ cada\ 100\ gramos\ y\ la\ cantidad\ de\ calorias\ \r\n\ asi\ como\ el\ componente\ mayoritario.\r\n\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment2.text=\r\n\ Metodo\ getter\ que\ devuelve\ el\ nombre\ de\ el\ objeto\ alimento\r\n\ @return\ devuelve\ el\ nombre\ del\ alimento\r\n
+comment3.params=
+comment3.target=float\ getProteinas()
+comment3.text=\r\n\ M\u00E9todo\ getter\ que\ devuelve\ las\ proteinas\r\n\ @return\ devuelve\ el\ numero\ float\ de\ proteinas\r\n
+comment4.params=
+comment4.target=float\ getCarbohidratos()
+comment4.text=\r\n\ M\u00E9todo\ getter\ que\ devuelve\ los\ carbohidratos\r\n\ @return\ devuelve\ el\ numero\ float\ de\ \ carbohidratos\r\n
+comment5.params=
+comment5.target=float\ getGrasas()
+comment5.text=\r\n\ M\u00E9todo\ getter\ que\ devuelve\ las\ grasas\r\n\ @return\ devuelve\ el\ numero\ float\ de\ grasas\r\n
+comment6.params=
+comment6.target=float\ getCalorias()
+comment6.text=\r\n\ M\u00E9todo\ getter\ que\ devuelve\ las\ calorias\r\n\ @return\ devuelve\ el\ numero\ float\ de\ calorias\r\n
+comment7.params=
+comment7.target=float\ getTotalMacronutrientes()
+comment7.text=\r\n\ M\u00E9todo\ getter\ que\ devuelve\ el\ total\ de\ macronutrientes\r\n\ @return\ devuelve\ el\ numero\ float\ de\ \ total\ de\ macronutrientes\r\n
+numComments=8
