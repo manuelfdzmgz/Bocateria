@@ -1,5 +1,6 @@
 import java.util.HashMap;
 import java.util.ArrayList;
+import java.util.*;
 /**
  * Write a description of class Bocateria here.
  * 
@@ -13,18 +14,29 @@ public class Bocateria
     private int facturacionActual;
     private HashMap<Integer,Cliente> clientes;
     private static final int PRECIO_BOCADILLO = 5; 
-
+    private    ArrayList<Cliente> cliente;
+    private int numeroDeBocadillos;
     /**
      * Constructor for objects of class Bocateria
      */
     public Bocateria()
     {
         HashMap <Integer,Cliente> clientes= new HashMap<Integer,Cliente>();
+
     }
 
-    public void llegaNuevoClienteAlaCola(int numeroDeBocadillos,Cliente cliente)
+    public void llegaNuevoClienteAlaCola(int numeroDeBocadillos,Cliente clientes)
     {
-        ArrayList<Cliente> clientes= new ArrayList<Cliente>();
-        clientes.add(cliente);
+        ArrayList<Cliente> cliente= new ArrayList<Cliente>();
+        cliente.add(clientes);
+    }
+
+    public void visualizarDatosClientesEnCola()
+    {
+        Iterator <Cliente> itr= cliente.iterator();
+        while (itr.hasNext())
+        {
+            System.out.println("Cliente " + itr.next() + " ha comido " +  numeroDeBocadillos + "("+ numeroDeBocadillos *PRECIO_BOCADILLO +")");
+        }
     }
 }
